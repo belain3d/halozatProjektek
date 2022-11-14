@@ -1,1 +1,0 @@
-az SW-IINTERNET switch vlan 1-jének lett ip cím adva, mivel máshogy nem tudtam megoldani (alapból nem kell neki adni IP címet.)
